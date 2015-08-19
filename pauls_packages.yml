@@ -1,0 +1,23 @@
+- brew:
+  - caskroom/cask/brew-cask
+  - ncdu
+  - npm
+  - python
+  - tree
+
+- cask:
+  - alfred
+  - divvy
+  - evernote
+  - flux
+  - google-chrome
+  - iterm2
+  - caskroom/homebrew-versions/java6
+  - pycharm-ce
+  - thunderbird
+  - vimr
+  - webstorm
+
+- pip:
+  - ipython
+  - tox

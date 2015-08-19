@@ -1,0 +1,3 @@
+brew: [brew, install, package]
+cask: [brew, cask, install, package]
+pip: [pip, install, package]
