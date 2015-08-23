@@ -1,0 +1,28 @@
+{
+    "brew": [
+        "caskroom/cask/brew-cask",
+        "ncdu",
+        "npm",
+        "python",
+        "tree",
+        "wget"
+    ],
+    "cask": [
+        "alfred",
+        "divvy",
+        "evernote",
+        "firefox",
+        "flux",
+        "google-chrome",
+        "iterm2",
+        "caskroom/homebrew-versions/java6",
+        "pycharm-ce",
+        "thunderbird",
+        "vimr",
+        "webstorm"
+     ],
+    "pip": [
+        "ipython",
+        "tox"
+    ]
+}
