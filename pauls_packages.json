@@ -9,6 +9,7 @@
     ],
     "cask": [
         "alfred",
+        "caffeine",
         "divvy",
         "evernote",
         "firefox",
@@ -16,8 +17,8 @@
         "google-chrome",
         "iterm2",
         "caskroom/homebrew-versions/java6",
+        "macdown",
         "pycharm-ce",
-        "thunderbird",
         "vimr",
         "webstorm"
      ],
